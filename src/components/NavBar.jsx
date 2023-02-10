@@ -23,6 +23,10 @@ const NavBar = () => {
       link: "experience",
     },
     {
+      id: 6,
+      link: "logros",
+    },
+    {
       id: 5,
       link: "contact",
     },
